@@ -10,7 +10,7 @@ stocean
 
 simple, powerful, open.
 
-source code is https://github.com/dupont-y/stocean
+source code is https://github.com/objoo/stocean
 
 
 2 - Installation
