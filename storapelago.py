@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-## Stocean : Storage Ocean
+## Storapelago : Storage Archipelago
 
 def init_config ():
   pass
