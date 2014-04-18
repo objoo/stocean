@@ -1,0 +1,10 @@
+[Core]
+Name = hardware-storage-lvm2
+Module = hardware-storage-lvm2
+
+[Documentation]
+Author = objoo
+Version = 0.1
+Website = http://objoo.org
+Description = test plugin fort storapelago
+
