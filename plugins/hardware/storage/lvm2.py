@@ -2,5 +2,5 @@ from yapsy.IPlugin import IPlugin
 
 class PluginOne(IPlugin):
     def print_name(self):
-            print ("This is plugin")
+            print ("hardware/storage/lvm2")
             

@@ -1,6 +1,6 @@
 [Core]
 Name = hardware-storage-lvm2
-Module = hardware-storage-lvm2
+Module = lvm2
 
 [Documentation]
 Author = objoo
