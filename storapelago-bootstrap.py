@@ -16,7 +16,6 @@ simplePluginManager.collectPlugins()
 simplePluginManager.getAllPlugins()
 
 for pluginInfo in simplePluginManager.getAllPlugins():
-   simplePluginManager.activatePluginByName(pluginInfo.name)
-   pluginInfo.plugin_object.print_name()
-   print pluginInfo
-   
+    simplePluginManager.activatePluginByName(pluginInfo.name)
+    pluginInfo.plugin_object.print_name()
+    print(pluginInfo)
